@@ -5,10 +5,16 @@
     margin: 0;
 }
 
+
 :root{
-    --font: 'Raleway',serif;
+    --font: 'Raleway', sans-serif;
     --color-background: #F2F2FE;
     --color-text : #1E1E1E;
+    --color-purple : #8261ee;
+}
+
+body{
+    font-family: var(--font);
 }
 
 .inner-button{
@@ -18,3 +24,4 @@
     border-radius: 25px;
     font-size: 13px;
 }
+
