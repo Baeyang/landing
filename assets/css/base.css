@@ -23,5 +23,11 @@ body{
     color: white;
     border-radius: 25px;
     font-size: 13px;
+    text-decoration: none !important;
+}
+
+.inner-button:hover{
+    background: var(--color-purple);
+    color: white;
 }
 
