@@ -7,14 +7,13 @@
 
 
 :root{
-    --font: 'Raleway', sans-serif;
     --color-background: #F2F2FE;
     --color-text : #1E1E1E;
     --color-purple : #8261ee;
 }
 
 body{
-    font-family: var(--font);
+    font-family:'Raleway', sans-serif !important;
 }
 
 .inner-button{

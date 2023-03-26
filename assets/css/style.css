@@ -2,6 +2,8 @@
     box-sizing: border-box;
 }
 
+
+
 .header{
     position: fixed;
     top: 30px;
@@ -479,6 +481,7 @@
 .section-7 .content .inner-body .inner-money .price{
     font-size: 28px;
     color: white;
+    
 }
 .section-7 .content .inner-body .inner-money .monthly{
     color: white;
