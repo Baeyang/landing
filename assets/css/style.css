@@ -538,16 +538,14 @@
 }
 .section-8 .inner-box{
     margin-bottom: 35px;
+    text-align: center;
 }
 .section-8 .inner-box .inner-img {
     overflow: hidden;
     border-radius: 20px;
-    height: 200px;
     margin-bottom: 20px;
 }
-.section-8 .inner-box .inner-content{
-    text-align: center;
-}
+
 .section-8 .inner-box .inner-content h3{
     font-size: 20px;
     font-weight: 400;
