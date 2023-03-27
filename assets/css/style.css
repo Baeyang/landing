@@ -267,14 +267,13 @@
     background-position: center center;
     /* height: 500px; */
     width: 100%;
+    padding: 100px 0px;
 
 }
 .section-5 .row1{
     margin-bottom: 60px;
 }
-.section-5 .container{
-    padding: 100px 0px;
-}
+
 
 .section-5 .inner-title{
     text-align: center;
