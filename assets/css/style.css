@@ -545,7 +545,9 @@
     height: 200px;
     margin-bottom: 20px;
 }
-
+.section-8 .inner-box .inner-content{
+    text-align: center;
+}
 .section-8 .inner-box .inner-content h3{
     font-size: 20px;
     font-weight: 400;
@@ -556,7 +558,7 @@
 
 .section-8 .inner-box .inner-content p{
     font-weight: 300;
-    font-size: 14px;
+    font-size: 13px;
     color: #777777;
     letter-spacing: 0.5px;
     line-height: 26px;
